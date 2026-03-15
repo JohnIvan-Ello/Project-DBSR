@@ -10,9 +10,9 @@ The facility features iconic locations designed with a focus on scale and skybox
 
 | Location | Design Focus |
 | :--- | :--- |
-| ![Zen-Oh Mansion](cosmic-shrine-exterior.jpg) | **Cosmic Architecture:** Implemented symmetrical shrine design with high-saturation neon accents. |
-| ![Arena Top Down](arena-top-down-geometry.jpg) | **Complex Geometry:** Precision-aligned circular arena patterns for the Tournament of Power. |
-| ![Pillar Hallway](celestial-pillar-hall.jpg) | **Lighting & Perspective:** Used aggressive atmospheric fog and floor-glow to create infinite depth. |
+| ![Zen-Oh Mansion](screenshot/cosmic-shrine-exterior.jpg) | **Cosmic Architecture:** Implemented symmetrical shrine design with high-saturation neon accents. |
+| ![Arena Top Down](screenshot/arena-top-down-geometry.jpg) | **Complex Geometry:** Precision-aligned circular arena patterns for the Tournament of Power. |
+| ![Pillar Hallway](screenshot/celestial-pillar-hall.jpg) | **Lighting & Perspective:** Used aggressive atmospheric fog and floor-glow to create infinite depth. |
 
 ---
 
@@ -22,7 +22,7 @@ Beyond environment design, this project features a full suite of custom-modeled 
 * **Stylized Hair Modeling:** Sculpted high-poly hair models optimized for Roblox’s engine.
 * **Modular Battle Armor:** Designed Saiyan-style chest pieces and multi-part armor sets with accurate vertex weighting.
 * **Asset Showcase:**
-![Assets](character-assets-showcase.jpg)
+![Assets](screenshot/character-assets-showcase.jpg)
 
 ---
 
